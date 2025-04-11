@@ -6,7 +6,7 @@
       "price": 59.99,
       "description": "High-quality sound with noise cancellation.",
       "category": "Electronics",
-      "image": "https://dummyjson.com/products/1/thumbnail.jpg",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png",
       "rating": {
         "rate": 4.5,
         "count": 120
@@ -18,7 +18,7 @@
       "price": 19.99,
       "description": "Comfortable and eco-friendly fabric.",
       "category": "Clothing",
-      "image": "https://dummyjson.com/products/2/thumbnail.jpg",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png",
       "rating": {
         "rate": 4.2,
         "count": 85
@@ -30,7 +30,7 @@
       "price": 24.95,
       "description": "Keeps drinks cold for 24 hours.",
       "category": "Accessories",
-      "image": "https://dummyjson.com/products/3/thumbnail.jpg",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png",
       "rating": {
         "rate": 4.7,
         "count": 210
