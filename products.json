@@ -1,4 +1,3 @@
-
 {
   "products": [
     {
@@ -7,7 +6,7 @@
       "price": 59.99,
       "description": "High-quality sound with noise cancellation.",
       "category": "Electronics",
-      "image": "https://example.com/earbuds.jpg",
+      "image": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       "rating": {
         "rate": 4.5,
         "count": 120
@@ -19,7 +18,7 @@
       "price": 19.99,
       "description": "Comfortable and eco-friendly fabric.",
       "category": "Clothing",
-      "image": "https://example.com/tshirt.jpg",
+      "image": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       "rating": {
         "rate": 4.2,
         "count": 85
@@ -31,7 +30,7 @@
       "price": 24.95,
       "description": "Keeps drinks cold for 24 hours.",
       "category": "Accessories",
-      "image": "https://example.com/bottle.jpg",
+      "image": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
       "rating": {
         "rate": 4.7,
         "count": 210
